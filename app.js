@@ -1,4 +1,4 @@
 console.log("hola mundo");
 
-var nombre = "omar";
+var nombre = "juan";
 var apellido = "perez";
